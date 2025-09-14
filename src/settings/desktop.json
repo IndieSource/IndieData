@@ -4,7 +4,7 @@
 		"desktop_apps": {
 			"phone": ["app_launcher"],
 			"tablet": ["app_launcher"],
-			"desktop": ["file_browser", "communicator"]
+			"desktop": ["file_browser", "communicator", "search_viewer"]
 		},
 		"admin_apps": {
 			"phone": ["app_launcher"],
